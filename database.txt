@@ -1,0 +1,6 @@
+ 1 pensil 10 1
+ 2 eraser 5 2
+ 3 stapler 40 5
+ 4 pen 10 1
+ 5 file 15 2
+ 6 filepege 100 10
